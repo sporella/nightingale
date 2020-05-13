@@ -1,7 +1,7 @@
 library(tidyverse)
 library(highcharter)
 
-data <- read_csv("data/genero.csv")
+data <- read_csv("data/genero_ine.csv")
 
 data_pivot <- data %>% 
   pivot_longer(cols = starts_with("BRECHA"), 
