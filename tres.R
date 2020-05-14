@@ -114,4 +114,4 @@ p <- p+
                    show.legend = F)
 p
 
-ggsave("plots/tres/fifa.png",p)
+ggsave("plots/tres/fifa.png",p, width = 6.59, height = 5.46)
