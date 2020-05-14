@@ -1,5 +1,16 @@
+# #30díasdegráficos día 2
+# Visualización datos INE CHile Brechas de género en personas tituladas
+# en carreras de tecnología
+# http://geoine-ine-chile.opendata.arcgis.com/datasets/49ab475e009a4cfbaf1a354af6016d73_29?selectedAttribute=BRECHA_2008_PROFESIONAL
+# Autora: Stephanie Orellana (@sporella)
+
+# Cargar librerías --------------------------------------------------------
+
 library(tidyverse)
 library(highcharter)
+
+
+# Procesar datos con tidyverse --------------------------------------------
 
 data <- read_csv("data/genero_ine.csv")
 
@@ -8,6 +19,8 @@ data_pivot <- data %>%
                names_to = c("year", "tipo"), 
                names_pattern = "BRECHA_(.*)_(.*)")
 
+
+# Visualización con highcharter -------------------------------------------
 
 hchart(data_pivot %>%  filter(tipo =="PROFESIONAL"), "line",
        hcaes(x = year, y = value, group = NOM_REGION)) %>% 
