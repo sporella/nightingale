@@ -14,10 +14,10 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 [Visualización dataset Kaggle FIFA2019](https://www.kaggle.com/karangadiya/fifa19)
 
-![](https://github.com/sporella/nightingale/blob/master/plots/tres/fifa.png){width=50%}
+![](https://github.com/sporella/nightingale/blob/master/plots/tres/fifa.png)
 
 - Día 4: Facetas
 
 [Visualización habilidades Pokémon](https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-07-10/pokemon.csv)
 
-![](https://github.com/sporella/nightingale/blob/master/plots/cuatro/habilidades_pokemon.png=20)
+![](https://github.com/sporella/nightingale/blob/master/plots/cuatro/habilidades_pokemon.png)
