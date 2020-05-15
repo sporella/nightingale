@@ -20,4 +20,4 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 [Visualización habilidades Pokémon](https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-07-10/pokemon.csv)
 
-![](https://raw.githubusercontent.com/sporella/nightingale/master/plots/cuatro/habilidades_pokemon.png|200)
+![](https://github.com/sporella/nightingale/blob/master/plots/cuatro/habilidades_pokemon.png)
