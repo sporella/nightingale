@@ -21,3 +21,9 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Visualización habilidades Pokémon](https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-07-10/pokemon.csv)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/cuatro/habilidades_pokemon.png)
+
+- Día 5: Diagramas de arco
+
+[Visualización redes Stark Juego de Tronos libro 1](kaggle.com/moradnejad/interaction-networks-for-game-of-thrones-saga)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/cinco/GOT.png)
