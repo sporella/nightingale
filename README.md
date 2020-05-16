@@ -24,6 +24,6 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 - Día 5: Diagramas de arco
 
-[Visualización redes Stark Juego de Tronos libro 1](kaggle.com/moradnejad/interaction-networks-for-game-of-thrones-saga)
+[Visualización redes Stark Juego de Tronos libro 1](https://kaggle.com/moradnejad/interaction-networks-for-game-of-thrones-saga)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/cinco/GOT.png)
