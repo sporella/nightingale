@@ -27,3 +27,9 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Visualización redes Stark Juego de Tronos libro 1](https://kaggle.com/moradnejad/interaction-networks-for-game-of-thrones-saga)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/cinco/GOT.png)
+
+- Día 6: Gráficos de donuts
+
+[Visualización huella ecológica sudamérica](https://www.kaggle.com/footprintnetwork/ecological-footprint?select=countries.csv)
+
+![]https://github.com/sporella/nightingale/blob/master/plots/seis/huella.gif
