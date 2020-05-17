@@ -32,4 +32,4 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 [Visualización huella ecológica sudamérica](https://www.kaggle.com/footprintnetwork/ecological-footprint?select=countries.csv)
 
-![]https://github.com/sporella/nightingale/blob/master/plots/seis/huella.gif
+![](https://github.com/sporella/nightingale/blob/master/plots/seis/huella.gif)
