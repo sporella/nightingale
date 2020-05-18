@@ -33,3 +33,9 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Visualización huella ecológica sudamérica](https://www.kaggle.com/footprintnetwork/ecological-footprint?select=countries.csv)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/seis/huella.gif)
+
+- Día 7: Diagrama Ridgeline
+
+[Visualización distribución temperaturas estación Quinta Normal](http://explorador.cr2.cl/)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/siete/temps.png)
