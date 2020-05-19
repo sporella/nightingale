@@ -39,3 +39,9 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Visualización distribución temperaturas estación Quinta Normal](http://explorador.cr2.cl/)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/siete/temps.png)
+
+- Día 8: Gráfico de contornos
+
+[Mapa de Vientos estación Carriel Sur](https://agrometeorologia.cl/VV)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/ocho/mapadevientos.png)
