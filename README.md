@@ -48,6 +48,6 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 - Día 9: Gráfico barras apiladas
 
-[Lenguajes de pelúculas](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+movies.csv)
+[Lenguajes de películas](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+movies.csv)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/nueve/peliculas.png)
