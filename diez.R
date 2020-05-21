@@ -27,4 +27,4 @@ saveGIF({
   image(img_mat, col  = scales::viridis_pal(option = "C")(255), main = "scales::viridis_pal(option='C')", sub = s)
   image(img_mat, col  = scales::viridis_pal(option = "D")(255), main = "scales::viridis_pal(option='D')", sub = s)
   image(img_mat, col  = scales::viridis_pal(option = "E")(255), main = "scales::viridis_pal(option='E')", sub = s)
-}, movie.name = "guernica.gif", ani.height = 400, ani.width=540)
+}, movie.name = "guernica.gif", ani.height = 400, ani.width = 540)
