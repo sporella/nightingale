@@ -37,7 +37,6 @@ p <- ggplot(data, aes(x=year, y= n, fill= lan))+
                                "#ffd19c",
                                "#b8a0e7"
   ))+
-  # theme_hc()+
   theme(legend.position="right",
         plot.background = element_rect(fill= "white"),
         panel.background = element_rect(fill = "white"),
