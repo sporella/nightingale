@@ -51,3 +51,10 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Lenguajes de películas](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+movies.csv)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/nueve/peliculas.png)
+
+
+- Día 10: Explorar paletas de colores
+
+[Guernica, Pablo Picasso](https://github.com/sporella/nightingale/blob/master/diez.R)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/diez/guernica.gif)
