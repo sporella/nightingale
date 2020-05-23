@@ -58,3 +58,9 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Guernica, Pablo Picasso](https://github.com/sporella/nightingale/blob/master/diez.R)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/diez/guernica.gif)
+
+- Día 11: Mapas de calor
+
+[Causas Incedios Forestales en Chile](https://stat.ine.cl/?lang=es&SubSessionId=06710c95-0c1d-451a-9847-ffa76ec9080d#)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/once/incendios.png)
