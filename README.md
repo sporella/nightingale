@@ -64,3 +64,9 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Causas Incedios Forestales en Chile](https://stat.ine.cl/?lang=es&SubSessionId=06710c95-0c1d-451a-9847-ffa76ec9080d#)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/once/incendios.png)
+
+- Día 12: Gráficos lillipop
+
+[Rendimiento v/s Salario FIFA20](https://www.kaggle.com/sagunsh/fifa-20-complete-player-dataset)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/doce/fifa20.png)
