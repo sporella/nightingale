@@ -70,3 +70,10 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Rendimiento v/s Salario FIFA20](https://www.kaggle.com/sagunsh/fifa-20-complete-player-dataset)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/doce/fifa20.png)
+
+
+- Día 13: Datos temporales
+
+[Visualización canto chucao](https://www.xeno-canto.org/species/Scelorchilus-rubecula)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/trece/chucao.png)
