@@ -1,0 +1,18 @@
+﻿categoria,color,descripcion,etiqueta
+1,#00b6ad,Evergreen Needleleaf Forests: dominated by evergreen conifer trees (canopy >2m). Tree cover >60%.,Bosque siempreverde de coníferas
+2,#00ae74,Evergreen Broadleaf Forests: dominated by evergreen broadleaf and palmate trees (canopy >2m). Tree cover >60%.,Bosque siempreverde de hoja ancha
+3,#bcd88e,Deciduous Needleleaf Forests: dominated by deciduous needleleaf (larch) trees (canopy >2m). Tree cover >60%.,Bosque caducifolio de coníferas
+4,#cab169,Deciduous Broadleaf Forests: dominated by deciduous broadleaf trees (canopy >2m). Tree cover >60%.,Bosque caducifolio de hoja ancha
+5,#4eb491,Mixed Forests: dominated by neither deciduous nor evergreen (40-60% of each) tree type (canopy >2m). Tree cover >60%.,Bosques mixtos
+6,#a95067,Closed Shrublands: dominated by woody perennials (1-2m height) >60% cover.,Matorral denso
+7,#be7955,Open Shrublands: dominated by woody perennials (1-2m height) 10-60% cover.,Matorral abierto
+8,#b0ac43,Woody Savannas: tree cover 30-60% (canopy >2m).,Savana leñosa
+9,#fcf7a8,Savannas: tree cover 10-30% (canopy >2m).,Savana
+10,#62b650,Grasslands: dominated by herbaceous annuals (<2m).,Praderas
+11,#768cd3,Permanent Wetlands: permanently inundated lands with 30-60% water cover and >10% vegetated cover.,Humedales permanentes
+12,#dc446b,Croplands: at least 60% of area is cultivated cropland.,Cultivos
+13,#cbc9be,"Urban and Built-up Lands: at least 30% impervious surface area including building materials, asphalt and vehicles.",Urbano
+14,#d58e37,"Cropland/Natural Vegetation Mosaics: mosaics of small-scale cultivation 40-60% with natural tree, shrub, or herbaceous vegetation.",Mosaico de cultivos y vegetación natural
+15,#a1f6e9,Permanent Snow and Ice: at least 60% of area is covered by snow and ice for at least 10 months of the year.,Nieves permanentes
+16,#67c2bf,"Barren: at least 60% of area is non-vegetated barren (sand, rock, soil) areas with less than 10% vegetation.",Suelo desnudo
+17,#46aed7,Water Bodies: at least 60% of area is covered by permanent water bodies.,Cuerpos de agua
