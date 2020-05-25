@@ -77,3 +77,10 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Visualización canto chucao](https://www.xeno-canto.org/species/Scelorchilus-rubecula)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/trece/chucao.png)
+
+
+- Día 14: Treemap
+
+[Visualización Usos de Suelo](https://lpdaac.usgs.gov/products/mcd12q1v006/)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/catorce/cobertura_suelo.gif)
