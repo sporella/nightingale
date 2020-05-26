@@ -60,6 +60,9 @@ color_segment <- tree_labels$segments %>%
 
 # Visualización -----------------------------------------------------------
 
+poderes <- paste(str_to_title(str_replace_all(names(pokemon_matrix), "_", " ")), collapse = ", ")
+
+
 p <-  ggplot() +
   geom_segment(
     data = color_segment,
@@ -95,10 +98,13 @@ p <-  ggplot() +
                  image = tolower(label)
                ),
                size = 0.09) +
-  labs(caption = "@sporella") +
+  labs(caption = "@sporella",
+       tag = paste0("\nEn relación a: ", poderes)) +
   theme_dendro() +
   theme(plot.background = element_rect(fill = "#666366"),
-        plot.caption = element_text(colour = "grey99"))
+        plot.caption = element_text(colour = "grey99"),
+        plot.tag.position = "bottom",
+        plot.tag = element_text(size=8, colour="#fcffb0", face="italic", vjust=0))
 
 p <- p + scale_colour_manual(values = c("#c7ffeb",
                                         "#ec9dd1",
