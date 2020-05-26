@@ -84,3 +84,9 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Visualización Usos de Suelo](https://lpdaac.usgs.gov/products/mcd12q1v006/)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/catorce/cobertura_suelo.gif)
+
+- Día 15: Dendrograma
+
+[Visualización Dendrograma Pokemones Favoritos](https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-07-10/pokemon.csv)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/quince/poke_dendro.png)
