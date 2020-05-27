@@ -95,8 +95,4 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 [Visualización Participación femenina en parlamentos](https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-05-08/datos_uip.csv)
 
-<<<<<<< HEAD
-![](https://github.com/sporella/nightingale/blob/master/plots/dieciseis/parlamentos.png)
-=======
 ![](https://github.com/sporella/nightingale/blob/master/plots/deciseis/parlamentos.png)
->>>>>>> b241d48c195bae90a3da465a88753d9ed89128ba
