@@ -44,20 +44,24 @@ p <- ggplot(datos, aes(fill = genero, values = porcentaje)) +
     flip = TRUE
   ) +
   facet_wrap(pais ~ camara,
-             nrow = 4,
+             ncol = 4,
              dir = "v",
              strip.position = "bottom") +
   scale_fill_manual(values = c("#ae9dff", "#46ecce")) +
-  labs(title = "Participación Femenina en Parlamentos de Latinoamérica",
+  labs(title = "Participación Femenina\nParlamentos de Latinoamérica",
        fill = "",
        caption = "@sporella") +
-  coord_equal() +
-  theme_void() +
-  theme(legend.position = "bottom",
+  theme(line = element_blank(), rect = element_blank(),
+        axis.text = element_blank(),
+        axis.title = element_blank(),
+        axis.ticks = element_blank(),
+        strip.text.x = element_text(size = 8, margin = margin(0,5,0,5), vjust=1),
+    legend.position = "bottom",
+        plot.caption.position = "panel",
         plot.title = element_text(
           size = 15,
           vjust = 2,
           hjust = 0.5
         ))
 
-ggsave("plots/dieciseis/parlamentos.png",p, width = 6, height = 5)
+ggsave("plots/dieciseis/parlamentos.png",p, width = 6, height = 4.5)
