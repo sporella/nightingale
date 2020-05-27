@@ -90,3 +90,9 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Visualización Dendrograma Pokemones Favoritos](https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-07-10/pokemon.csv)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/quince/poke_dendro.png)
+
+- Día 16: Waffle
+
+[Visualización Participación femenina en parlamentos](https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-05-08/datos_uip.csv)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/deciseis/parlamentos.png)
