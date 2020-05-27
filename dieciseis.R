@@ -1,6 +1,6 @@
 # #30díasdegráficos día 16
 # Visualización participación femenina parlamentos latinoamérica
-# "https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-05-08/datos_uip.csv"
+# https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-05-08/datos_uip.csv
 # Autora: Stephanie Orellana (@sporella)
 
 # Cargar librerías --------------------------------------------------------
