@@ -96,3 +96,10 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Visualización Participación femenina en parlamentos](https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-05-08/datos_uip.csv)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/dieciseis/parlamentos.png)
+
+
+- Día 17: Sankey
+
+[Visualización Nacionalidades FIFA20](https://www.kaggle.com/sagunsh/fifa-20-complete-player-dataset)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/diecisiete/nacionalidades.png)
