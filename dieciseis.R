@@ -12,8 +12,8 @@ library(waffle) # devtools::install_gitlab("hrbrmstr/waffle")
 # Cargar y procesar datos -------------------------------------------------
 
 
-paises <- c("Argentina", "Bolivia", "Brazil", "Chile", "Colombia", "Ecuador",
-            "Paraguay", "Peru", "Uruguay", "Venezuela")
+paises <- c("Argentina", "Bolivia", "Brasil", "Chile", "Colombia", "Ecuador",
+            "Paraguay", "Perú", "Uruguay", "Venezuela")
 
 datos <- read_csv(
     "https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-05-08/datos_uip.csv"
@@ -44,7 +44,7 @@ p <- ggplot(datos, aes(fill = genero, values = porcentaje)) +
     flip = TRUE
   ) +
   facet_wrap(pais ~ camara,
-             ncol = 4,
+             ncol = 3,
              dir = "v",
              strip.position = "bottom") +
   scale_fill_manual(values = c("#ae9dff", "#46ecce")) +
@@ -64,4 +64,4 @@ p <- ggplot(datos, aes(fill = genero, values = porcentaje)) +
           hjust = 0.5
         ))
 
-ggsave("plots/dieciseis/parlamentos.png",p, width = 6, height = 4.5)
+ggsave("plots/dieciseis/parlamentos.png",p, width = 5, height = 5)
