@@ -4,8 +4,7 @@
 # Autora: Stephanie Orellana (@sporella)
 
 
-# Cargar librería ---------------------------------------------------------
-
+# Cargar librerías --------------------------------------------------------
 
 library(tidyverse)
 library(highcharter)
