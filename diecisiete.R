@@ -57,7 +57,7 @@ ggplot(data = datos,
   scale_fill_manual(values = cols) +
   scale_y_continuous(expand = c(0,0)) +
   labs(title = toupper("Nacionalidad de jugadores"),
-       subtitle = "Planillas según juego FIFA20",
+       subtitle = "Planteles según juego FIFA20",
        caption = "@sporella")+
   theme(
     axis.text = element_blank(),
