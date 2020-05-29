@@ -26,7 +26,7 @@ p <- ggplot(raster_tab, aes(x = x, y = y, fill = value)) +
     x = "",
     y = ""
   ) +
-  # facet_wrap(~mes)+
+  coord_map()+
   theme_minimal() +
   scale_fill_gradientn(colours = scales::brewer_pal(palette = "Spectral", direction = -1)(11)) +
   theme(legend.position = "bottom",
