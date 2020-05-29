@@ -103,3 +103,11 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Visualización Nacionalidades FIFA20](https://www.kaggle.com/sagunsh/fifa-20-complete-player-dataset)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/diecisiete/nacionalidades.png)
+
+
+
+- Día 17: Datos espaciales
+
+[Visualización Temperatura superficial Mensual](https://lpdaac.usgs.gov/products/mod11a1v006/)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/dieciocho/temp.gif)
