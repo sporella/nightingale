@@ -118,3 +118,10 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Visualización Búsquedas Google Chile](https://trends.google.es/trends/explore?geo=CL&q=noticias,virus,metro,mascarillas,toque%20de%20queda)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/diecinueve/google_chile.png)
+
+
+- Día 20: Redes
+
+[Visualización Redes Harry Potter](https://data.world/harishkgarg/harry-potter-universe)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/veinte/hp.png)
