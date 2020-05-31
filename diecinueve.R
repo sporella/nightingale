@@ -47,4 +47,4 @@ p <- ggplot(datos, aes(x = Semana, y = valor, fill = termino)) +
         plot.caption.position = "plot"
   )
 
-ggsave("plots/diecinueve/google_chile.png", p, height = 4, width = 6)
+ggsave("plots/diecinueve/google_chile.png", p, height = 4, width = 6.7)
