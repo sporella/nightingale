@@ -23,7 +23,7 @@ datos <- read_csv("data/google.csv", skip = 2) %>%
 
 p <- ggplot(datos, aes(x = Semana, y = valor, fill = termino)) +
   stat_steamgraph(alpha = .75) +
-  scale_x_date(date_breaks = "6 weeks", date_labels = "%b %Y") +
+  scale_x_date(date_breaks = "2 months", date_labels = "%b %Y", limits = c(as.Date("2019-05-01"), NA)) +
   scale_fill_manual(values = c("#f0bf4b",
                                "#8b66f1",
                                "#009377",
