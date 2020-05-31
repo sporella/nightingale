@@ -106,8 +106,15 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 
 
-- Día 17: Datos espaciales
+- Día 18: Datos espaciales
 
 [Visualización Temperatura superficial Mensual](https://lpdaac.usgs.gov/products/mod11a1v006/)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/dieciocho/temp.gif)
+
+
+- Día 19: Stream plot
+
+[Visualización Búsquedas Google Chile](https://trends.google.es/trends/explore?geo=CL&q=noticias,virus,metro,mascarillas,toque%20de%20queda)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/diecinueve/google_chile.png)
