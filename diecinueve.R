@@ -9,9 +9,16 @@ library(tidyverse)
 library(ggTimeSeries)
 
 
+
+# Cargar y procesar datos -------------------------------------------------
+
+
 datos <- read_csv("data/google.csv", skip = 2) %>% 
   mutate_if(is.character, parse_number) %>% 
   pivot_longer(-1, names_to = c("termino", "pais"), values_to = "valor", names_pattern = "(.*): (.*)")
+
+
+# Visualización -----------------------------------------------------------
 
 
 p <- ggplot(datos, aes(x = Semana, y = valor, fill = termino)) +
