@@ -12,7 +12,7 @@ library(janitor)
 
 # Cargar y procesar datos -------------------------------------------------
 
-data <- read_csv("data/starbucks_chile.csv") %>% 
+data <- read_csv("data/starbucks_chile.csv") %>%
   clean_names()
 
 
@@ -21,7 +21,8 @@ data <- read_csv("data/starbucks_chile.csv") %>%
 
 desc <- "Esta torta es muy sospechosa, ¡dice que no tiene azúcares!"
 desc2 <- "Este cheesecake es una bola de azúcar y energía"
-desc3 <- "Esta barrita es una opción al Cheesecake por la mitad del precio"
+desc3 <-
+  "Esta barrita es una opción al Cheesecake por la mitad del precio"
 
 p <- ggplot(data,
             aes(x = energia_kc, y = azucares_totales_g)) +
@@ -31,14 +32,15 @@ p <- ggplot(data,
   scale_colour_manual(values = c("#cea2e5",
                                  "#62bab0",
                                  "#ffd49a",
-                                 "#d7a076"))+
+                                 "#d7a076")) +
   geom_mark_circle(
     aes(
       filter = azucares_totales_g < 1 & categoria == "Tortas",
       label = producto,
       description = desc
     ),
-    label.fontsize = 6
+    label.fontsize = 10,
+    label.fill = "#dcffc4"
   ) +
   geom_mark_circle(
     aes(
@@ -46,7 +48,8 @@ p <- ggplot(data,
       label = producto,
       description = desc2
     ),
-    label.fontsize = 6
+    label.fontsize = 9,
+    label.fill = "#dcffc4"
   ) +
   geom_mark_circle(
     aes(
@@ -54,7 +57,8 @@ p <- ggplot(data,
       label = producto,
       description = desc3
     ),
-    label.fontsize = 6
+    label.fontsize = 8,
+    label.fill = "#dcffc4"
   ) +
   labs(
     title = "Menú Starbucks Chile",
@@ -63,10 +67,13 @@ p <- ggplot(data,
     y = "Azúcares totales [g]",
     colour = ""
   ) +
-  guides(colour = guide_legend(reverse = T))+
+  guides(colour = guide_legend(reverse = T)) +
   theme_minimal() +
   theme(legend.position = "bottom",
         plot.title = element_text(size = 20))
-p
 
-ggsave("plots/veintiuno/starbucks.png", p, width = 7.5, height = 6)
+
+ggsave("plots/veintiuno/starbucks.png",
+       p,
+       width = 7.5,
+       height = 6)
