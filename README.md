@@ -125,3 +125,10 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Visualización Redes Harry Potter](https://data.world/harishkgarg/harry-potter-universe)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/veinte/hp.png)
+
+
+- Día 21: Anotaciones
+
+[Visualización Menú Starbucks Chile](https://www.starbucks.cl/media/Comida-Nutricional_tcm102-14772.pdf)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/veintiuno/starbucks.png)
