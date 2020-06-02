@@ -21,8 +21,7 @@ data <- read_csv("data/starbucks_chile.csv") %>%
 
 desc <- "Esta torta es muy sospechosa, ¡dice que no tiene azúcares!"
 desc2 <- "Este cheesecake es una bola de azúcar y energía"
-desc3 <-
-  "Esta barrita es una opción al Cheesecake por la mitad del precio"
+desc3 <- "Esta barrita es una opción al Cheesecake por la mitad del precio"
 
 p <- ggplot(data,
             aes(x = energia_kc, y = azucares_totales_g)) +
