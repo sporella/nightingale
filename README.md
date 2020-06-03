@@ -132,3 +132,9 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Visualización Menú Starbucks Chile](https://www.starbucks.cl/media/Comida-Nutricional_tcm102-14772.pdf)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/veintiuno/starbucks.png)
+
+- Día 22: Datos textuales
+
+[Visualización Paquetes Espaciales](https://cran.r-project.org/web/views/Spatial.html)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/veintidos/sppaquetes.png)
