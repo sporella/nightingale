@@ -42,7 +42,7 @@ x_sum <- datos %>%
 
 # Visualización -----------------------------------------------------------
 
-desc <- "Paquetes que se encuentran listados en: CRAN Task View: Analysis of Spatial Data.\nDescargas desde 2015."
+desc <- "Paquetes que se encuentran listados en CRAN Task View: Analysis of Spatial Data.\nDescargas desde 2015."
 set.seed(42)
 p1 <- ggplot(x_sum, aes(label = package, size = size, colour=package)) +
   geom_text_wordcloud_area() +
