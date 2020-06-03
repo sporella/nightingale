@@ -10,6 +10,7 @@ library(tidyverse)
 library(dlstats)
 library(lubridate)
 library(ggwordcloud)
+library(ggthemes)
 
 # Descargar estadísticas --------------------------------------------------
 # Se demora porque son muchos paquetes, más abajo dejo el dataset
