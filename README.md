@@ -138,3 +138,10 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Visualización Paquetes Espaciales](https://cran.r-project.org/web/views/Spatial.html)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/veintidos/sppaquetes.png)
+
+
+- Día 23: Gráficos Proyección Solar
+
+[Visualización Desplazamientos en Renca](https://twitter.com/CedeusChile/status/1268198733952569345)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/veintitres/viajes_renca.png)
