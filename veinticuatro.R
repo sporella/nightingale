@@ -40,7 +40,7 @@ desc <-
     " [°C]"
   )
 
-ggplot() +
+p <- ggplot() +
   geom_sf(data = mean_ene, aes(fill = ene), colour = "grey90") +
   scale_fill_viridis_c(option = "C",
                        breaks = seq(30, 42, 1),
@@ -84,6 +84,4 @@ ggplot() +
   theme_minimal() +
   coord_sf()
 
-ggsave("plots/veinticuatro/temperaturas_enero.png",
-       width = 7,
-       height = 7)
+ggsave("plots/veinticuatro/temperaturas_enero.png", p,  width = 7, height = 7)
