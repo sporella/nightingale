@@ -145,3 +145,9 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Visualización Desplazamientos en Renca](https://twitter.com/CedeusChile/status/1268198733952569345)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/veintitres/viajes_renca.png)
+
+- Día 24: Coropletas
+
+[Visualización Temperatura Superficial Enero en Santiago](https://lpdaac.usgs.gov/products/mod11a1v006/)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/veinticuatro/temperaturas_enero.png)
