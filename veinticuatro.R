@@ -10,7 +10,8 @@ library(sf)
 library(ggforce)
 
 
-# Hacer raster stack y cáculos --------------------------------------------
+
+# Cargar raster y convertir unidades --------------------------------------
 
 lst <- raster("data/lst_01.tif")
 lst <- (lst * 0.02) - 273.15
