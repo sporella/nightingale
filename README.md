@@ -151,3 +151,9 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Visualización Temperatura Superficial Enero en Santiago](https://lpdaac.usgs.gov/products/mod11a1v006/)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/veinticuatro/temperaturas_enero.png)
+
+- Día 25: Violines
+
+[Visualización Seguridad de Contraseñas](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-01-14/readme.md)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/veinticinco/contraseñas.png)
