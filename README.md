@@ -157,3 +157,9 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Visualización Seguridad de Contraseñas](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-01-14/readme.md)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/veinticinco/contraseñas.png)
+
+- Día 26: Diagrama de Marimekko
+
+[Visualización Digimon](https://www.kaggle.com/rtatman/digidb)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/veintiseis/digimon.png)
