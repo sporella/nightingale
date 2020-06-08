@@ -173,6 +173,6 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 - Día 27: Diagrama de cuerdas
 
-[Visualización Matriz de Viajes Santiago](https://lpdaac.usgs.gov/products/mod11a1v006/)
+[Visualización Matriz de Viajes Santiago](http://www.dtpm.gob.cl/index.php/documentos/matrices-de-viaje)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/veintiocho/traslados.png)
