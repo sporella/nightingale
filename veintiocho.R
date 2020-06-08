@@ -1,6 +1,6 @@
 # #30díasdegráficos día 27
-# Visualización animación temperaturas enero en Santiago
-# https://lpdaac.usgs.gov/products/mod11a1v006/
+# Visualización matrices origen-destino Santiago
+# http://www.dtpm.gob.cl/index.php/documentos/matrices-de-viaje
 # Autora: Stephanie Orellana (@sporella)
 
 # Cargar librerías --------------------------------------------------------
