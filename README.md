@@ -169,3 +169,10 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Visualización Animación Temperatura Superficial Enero en Santiago](https://lpdaac.usgs.gov/products/mod11a1v006/)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/veintisiete/temp_ene.gif)
+
+
+- Día 27: Diagrama de cuerdas
+
+[Visualización Matriz de Viajes Santiago](https://lpdaac.usgs.gov/products/mod11a1v006/)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/veintiocho/traslados.png)
