@@ -163,3 +163,9 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Visualización Digimon](https://www.kaggle.com/rtatman/digidb)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/veintiseis/digimon.png)
+
+- Día 27: Gráficos Animados
+
+[Visualización Animación Temperatura Superficial Enero en Santiago](https://lpdaac.usgs.gov/products/mod11a1v006/)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/veintisiete/temp_ene.gif)
