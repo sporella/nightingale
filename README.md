@@ -171,8 +171,14 @@ Códigos visualizaciones desafío #30díasdegráficos
 ![](https://github.com/sporella/nightingale/blob/master/plots/veintisiete/temp_ene.gif)
 
 
-- Día 27: Diagrama de cuerdas
+- Día 28: Diagrama de cuerdas
 
 [Visualización Matriz de Viajes Santiago](http://www.dtpm.gob.cl/index.php/documentos/matrices-de-viaje)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/veintiocho/traslados.png)
+
+- Día 29: Gráfico de coordenadas paralelas
+
+[Visualización Selección Chile en FIFA20](http://www.anfp.cl/noticia/34618/nomina-de-la-seleccion-chilena-para-amistoso-con-peru)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/veintinueve/seleccion_chile.png)
