@@ -182,3 +182,9 @@ Códigos visualizaciones desafío #30díasdegráficos
 [Visualización Selección Chile en FIFA20](http://www.anfp.cl/noticia/34618/nomina-de-la-seleccion-chilena-para-amistoso-con-peru)
 
 ![](https://github.com/sporella/nightingale/blob/master/plots/veintinueve/seleccion_chile.png)
+
+- Día 30: Gráfico de Florence Nightingale
+
+[Visualización Consecuencia Accidentes Tránsito Chile, año 2019](https://www.conaset.cl/programa/observatorio-datos-estadistica/biblioteca-observatorio/estadisticas-generales/)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/treinta/nightingale.png)
