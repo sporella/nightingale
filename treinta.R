@@ -16,7 +16,10 @@ library(extrafont)
 datos <- read_csv("data/accidentes_2019.csv") %>%
   pivot_longer(cols = -c(1:2),
                names_to = "Lesion",
-               values_to = "Valor")
+               values_to = "Valor") %>% 
+  mutate(Mes = factor(Mes, levels = c("Enero", "Febrero", "Marzo", "Abril", "Mayo",
+                                      "Junio", "Julio", "Agosto", "Septiembre",
+                                      "Octubre", "Noviembre", "Diciembre")))
 
 datos_lab <- datos %>%
   group_by(Mes) %>%
@@ -73,4 +76,5 @@ p <- ggplot() +
     keyheight = unit(3, "mm")
   ))
 
-ggsave("plots/treinta/nightingale.png", p, width = 5, height = 5)
+p
+ggsave("plots/treinta/nightingale.png", p, width = 4, height = 5)
