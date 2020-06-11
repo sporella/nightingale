@@ -1,7 +1,7 @@
 # Nightingale
 Códigos visualizaciones desafío #30díasdegráficos
 
-- Día 1: barras/columnas
+# Día 1: barras/columnas
 
 **Análisis datos Spotify**
 
@@ -12,7 +12,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 ![](https://github.com/sporella/nightingale/blob/master/plots/uno/energy.png)
 ----------
 
-- Día 2: líneas
+# Día 2: líneas
 
 **Brecha de género en carreras tecnológicas, Chile**
 
@@ -26,7 +26,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 3: puntos/burbujas
+# Día 3: puntos/burbujas
 
 **Visualización dataset Kaggle FIFA2019**
 
@@ -38,7 +38,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 4: Facetas
+# Día 4: Facetas
 
 **Visualización habilidades Pokémon**
 
@@ -50,7 +50,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 5: Diagramas de arco
+# Día 5: Diagramas de arco
 
 **Visualización redes Stark Juego de Tronos libro 1**
 
@@ -62,7 +62,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 6: Gráficos de donuts
+# Día 6: Gráficos de donuts
 
 **Visualización huella ecológica sudamérica**
 
@@ -74,7 +74,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 7: Diagrama Ridgeline
+# Día 7: Diagrama Ridgeline
 
 **Visualización distribución temperaturas estación Quinta Normal**
 
@@ -86,7 +86,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 8: Gráfico de contornos
+# Día 8: Gráfico de contornos
 
 **Mapa de Vientos estación Carriel Sur**
 
@@ -98,7 +98,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 9: Gráfico barras apiladas
+# Día 9: Gráfico barras apiladas
 
 **Lenguajes de películas**
 
@@ -110,7 +110,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 10: Explorar paletas de colores
+# Día 10: Explorar paletas de colores
 
 **Guernica, Pablo Picasso**
 
@@ -123,7 +123,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 11: Mapas de calor
+# Día 11: Mapas de calor
 
 **Causas Incedios Forestales en Chile**
 
@@ -135,7 +135,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 12: Gráficos lillipop
+# Día 12: Gráficos lillipop
 
 **Rendimiento v/s Salario FIFA20**
 
@@ -147,7 +147,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 13: Datos temporales
+# Día 13: Datos temporales
 
 **Visualización canto chucao**
 
@@ -159,7 +159,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 14: Treemap
+# Día 14: Treemap
 
 **Visualización Usos de Suelo Chile**
 
@@ -171,7 +171,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 15: Dendrograma
+# Día 15: Dendrograma
 
 **Visualización Dendrograma Pokemones Favoritos**
 
@@ -183,7 +183,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 16: Waffle
+# Día 16: Waffle
 
 **Visualización Participación femenina en parlamentos**
 
@@ -195,7 +195,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 17: Sankey
+# Día 17: Sankey
 
 **Visualización Nacionalidades FIFA20**
 
@@ -208,7 +208,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 18: Datos espaciales
+# Día 18: Datos espaciales
 **Visualización Temperatura superficial Mensual**
 
 [Fuente Datos](https://lpdaac.usgs.gov/products/mod11a1v006/)
@@ -219,7 +219,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 19: Stream plot
+# Día 19: Stream plot
 **Visualización Búsquedas Google Chile**
 
 [Fuente Datos](https://trends.google.es/trends/explore?geo=CL&q=noticias,virus,metro,mascarillas,toque%20de%20queda)
@@ -230,7 +230,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 20: Redes
+# Día 20: Redes
 **Visualización Redes Harry Potter**
 
 [Fuente Datos](https://data.world/harishkgarg/harry-potter-universe)
@@ -241,7 +241,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 21: Anotaciones
+# Día 21: Anotaciones
 
 **Visualización Menú Starbucks Chile**
 
@@ -253,7 +253,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 22: Datos textuales
+# Día 22: Datos textuales
 
 **Visualización Paquetes Espaciales**
 
@@ -265,7 +265,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 23: Gráficos Proyección Solar
+# Día 23: Gráficos Proyección Solar
 
 **Visualización Desplazamientos en Renca**
 
@@ -277,7 +277,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 24: Coropletas
+# Día 24: Coropletas
 
 **Visualización Temperatura Superficial Enero en Santiago**
 
@@ -289,7 +289,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 25: Violines
+# Día 25: Violines
 
 **Visualización Seguridad de Contraseñas**
 
@@ -301,7 +301,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 26: Diagrama de Marimekko
+# Día 26: Diagrama de Marimekko
 
 **Visualización Digimon**
 
@@ -313,7 +313,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 27: Gráficos Animados
+# Día 27: Gráficos Animados
 
 **Visualización Animación Temperatura Superficial Enero en Santiago**
 
@@ -325,7 +325,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 28: Diagrama de cuerdas
+# Día 28: Diagrama de cuerdas
 
 **Visualización Matriz de Viajes Santiago**
 
@@ -337,7 +337,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 29: Gráfico de coordenadas paralelas
+# Día 29: Gráfico de coordenadas paralelas
 
 **Visualización Selección Chile en FIFA20**
 
@@ -349,7 +349,7 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 ----------
 
-- Día 30: Gráfico de Florence Nightingale
+# Día 30: Gráfico de Florence Nightingale
 
 **Visualización Consecuencia Accidentes Tránsito Chile, año 2019**
 
