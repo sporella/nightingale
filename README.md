@@ -333,6 +333,8 @@ Códigos visualizaciones desafío #30díasdegráficos
 
 [Código](https://github.com/sporella/nightingale/blob/master/veintiocho.R)
 
+[ShinyApp](https://sporella.shinyapps.io/nightingale/)
+
 ![](https://github.com/sporella/nightingale/blob/master/plots/veintiocho/traslados.png)
 
 ----------
